@@ -2,6 +2,8 @@
 
 Demo project for scalive for [Scalive # 1](http://connpass.com/event/6903)
 
+Presentation slide is [Here](http://www.slideshare.net/georgeosd/scalive)
+
 # Usage
 ### Clone project
 
