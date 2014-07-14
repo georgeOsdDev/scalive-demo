@@ -1,0 +1,8 @@
+.*
+!.gitignore
+log
+project/project
+project/target
+routes.cache
+target
+upload
